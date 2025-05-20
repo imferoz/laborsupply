@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /cdn-cgi/l/email-protection
-Allow: /
-
+Disallow: /cdn-cgi/
+Allow: /manpower/
+Allow: /recruitment/
 Sitemap: https://laborsupply.alwejhagroup.com/sitemap.xml
